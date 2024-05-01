@@ -1,4 +1,7 @@
 # *Conversatorio*
+
+![Conversatorio_Binda](https://github.com/silviabinda/conversatorio/assets/79167212/dbf97202-9df5-426b-acfe-c1a5911f76db)
+
 *Conversatorio* by Silvia Binda Heiserova is a series of feminist electronic and digital artworks, using various components, microcontrollers, modules and code. It includes a series of 8 boards, conceptualized as open hardware artistic feminist devices, designed and assembled in such a manner so they uncover what usually is hidden.
 
 These boards are open source and transparent, all its components are visible so everybody can see what these technologies consist of. Besides calling for openism and transparency, the boards from *Conservatorio* series are determined by the number 78:
